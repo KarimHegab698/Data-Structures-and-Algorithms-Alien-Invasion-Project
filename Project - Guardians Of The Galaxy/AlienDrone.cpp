@@ -26,7 +26,7 @@ AlienDrone::AlienDrone(int id, int jointime, int health, int power, int attackca
 
 void AlienDrone::Attack()
 {
-	if (GameManager->getEA()->getEGArmy()->isEmpty() || GameManager->getEA()->getETArmy()->IsEmpty())
+	if (GameManager->getEA()->getEGArmy()->isEmpty() && GameManager->getEA()->getETArmy()->IsEmpty())
 	{
 		return;
 	}

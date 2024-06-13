@@ -1,0 +1,20 @@
+TD ID TJ DF Dd Db
+0 81 23 38 -61 -23
+275 2991 256 19 0 19
+438 2181 52 386 0 386
+453 2028 6 447 0 447
+Draw
+Earth Army
+Total Earth Soliders: 2657  Total Earth Tanks: 1714 Total Earth Gunnery: 2025
+Percentage Of Destructed Units Relative To Their Total:
+Earth Soliders: 0 Earth Tanks: 0 Earth Gunnery: 0
+Percentage Of Total Destructed Units Relative To Their Total:0
+38 -61 -23
+-1 2
+Total Healed ratio: 0
+Alien Army
+Total Alien Soldiers: 2006  Total Alien Monester: 1902 Total Alien Drones: 2036
+Percentage Of Destructed Units Relative To Their Total : Alien Soldiers: 0 Alien Monesters: 0 Alien Drones: 0
+Percentage Of Total Destructed Units Relative To Their Total:0
+284 0 284
+1 0
